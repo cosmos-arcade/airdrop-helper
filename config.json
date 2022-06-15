@@ -1,0 +1,25 @@
+{
+    "SNAPSHOTS": [
+        "./snapshots/snap_staking_juno.json",
+        "./snapshots/snap_staking_osmo.json"
+    ],
+    "DENIED_LIST": [
+        "juno1aeh8gqu9wr4u8ev6edlgfq03rcy6v5twfn0ja8"
+    ],
+    "MINIMUM_AMOUNT": {
+        "juno": 10,
+        "osmo": 5
+    },
+    "MAX_SUPPLY": 7021003008,
+    "TOKENOMICS": {
+        "TEAM": 5,
+        "INITIAL_AIRDROP": 39.5,
+        "DAO": 35,
+        "DEV": 15,
+        "STAKING": 5,
+        "FIRST_GAME": 0.1
+    },
+    "SEED": "00000000000000000000104512ae0ed032068ee654c328b524b6d1a743472509",
+    "PROOF": "",
+    "PROBABILITY": 10
+}
