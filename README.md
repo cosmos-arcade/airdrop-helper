@@ -2,6 +2,14 @@
 
 This repo contains scripts helpful in creating the airdrop for the Comos Arcade token.
 
+## Distribution
+
+Each eligible wallet will receive an airdrop according to a uniform distribution. The fatter wallets does not stand a better chance of receiving a higher airdorp.
+
+<p align="center">
+<img src="./assets/images/histogram.png" width="350" />
+</p>
+
 ## Content
 
 - `assets`: contains the images generated from the main script.
